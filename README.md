@@ -2,7 +2,7 @@
 
 <img src="异界事务所.png" width="150" height="150" style="border-radius: 20%;" alt="Counter:Side Icon">
 
-# 📂 异界事务所 (Counter:Side) 最终版本留档
+# 📂 异界事务所 (Counter:Side) 最终版本资源留档
 
 [![GitHub stars](https://img.shields.io/github/stars/yemoyu123/YiJieShiWuSuo-CN?style=social)](https://github.com/yemoyu123/YiJieShiWuSuo-CN/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/yemoyu123/YiJieShiWuSuo-CN?color=orange)
